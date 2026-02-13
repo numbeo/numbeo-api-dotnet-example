@@ -1,0 +1,15 @@
+# Build artifacts
+bin/
+obj/
+
+# Configuration (may contain secrets)
+appsettings.json
+
+# User-specific
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
