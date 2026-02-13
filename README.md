@@ -1,4 +1,4 @@
-# Numbeo CLI
+# Numbeo API Usage Example in .NET
 
 A .NET 9.0 command-line tool that queries the [Numbeo API](https://www.numbeo.com/common/api.jsp) for cost-of-living data and displays it as a formatted table.
 
