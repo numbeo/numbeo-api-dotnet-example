@@ -1,6 +1,6 @@
 # Numbeo CLI
 
-A .NET 9.0 command-line tool that queries the [Numbeo API](https://www.numbeo.com/api/) for cost-of-living data and displays it as a formatted table.
+A .NET 9.0 command-line tool that queries the [Numbeo API](https://www.numbeo.com/common/api.jsp) for cost-of-living data and displays it as a formatted table.
 
 It fetches item metadata (names, categories) and city-specific prices (average, low, high), joins them by item ID, and prints the results sorted by display order.
 
